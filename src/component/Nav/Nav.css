@@ -1,0 +1,23 @@
+.nav{
+    width: 80%;
+}
+.nav__items{
+    text-align: right;
+}
+.nav__item{
+    display: inline-block;
+}
+.nav__link{
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 10px;
+    transition: all linear .5s;
+    -webkit-transition: all linear .5s;
+    -moz-transition: all linear .5s;
+    -ms-transition: all linear .5s;
+    -o-transition: all linear .5s;
+}
+.nav__link:hover{
+    color: gold;
+}

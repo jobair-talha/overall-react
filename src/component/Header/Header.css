@@ -1,0 +1,15 @@
+.header{
+    background: rgb(236, 237, 255);
+}
+.header__container{
+    display: flex;
+    align-items: center;
+    width: 85%;
+    margin: 0 auto;
+}
+.header__image{
+    width: 20%;
+}
+.header__img{
+    width: 50%;
+}
